@@ -1,0 +1,11 @@
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\obj\Debug\NumericUpDown.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\obj\Debug\NumericUpDown.frmNumericUpDown.resources
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\NumericUpDown\obj\Debug\NumericUpDown.pdb
