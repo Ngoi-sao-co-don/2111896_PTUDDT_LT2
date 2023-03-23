@@ -1,0 +1,11 @@
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\bin\Debug\StatusStrip.exe.config
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\bin\Debug\StatusStrip.exe
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\bin\Debug\StatusStrip.pdb
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\obj\Debug\StatusStrip.csproj.AssemblyReference.cache
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\obj\Debug\StatusStrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\obj\Debug\StatusStrip.Form1.resources
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\obj\Debug\StatusStrip.Properties.Resources.resources
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\obj\Debug\StatusStrip.csproj.GenerateResource.cache
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\obj\Debug\StatusStrip.csproj.CoreCompileInputs.cache
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\obj\Debug\StatusStrip.exe
+C:\Users\FPT-PC\Desktop\2111896_NguyenTanTien_BuoiLyThuyetSo2\StatusStrip\obj\Debug\StatusStrip.pdb
