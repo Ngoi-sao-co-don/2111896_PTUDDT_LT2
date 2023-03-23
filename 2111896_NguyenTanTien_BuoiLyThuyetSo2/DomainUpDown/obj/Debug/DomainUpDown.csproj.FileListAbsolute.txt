@@ -1,0 +1,11 @@
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\bin\Debug\DomainUpDown.exe.config
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\bin\Debug\DomainUpDown.exe
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\bin\Debug\DomainUpDown.pdb
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\obj\Debug\DomainUpDown.csproj.AssemblyReference.cache
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\obj\Debug\DomainUpDown.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\obj\Debug\DomainUpDown.Form1.resources
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\obj\Debug\DomainUpDown.Properties.Resources.resources
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\obj\Debug\DomainUpDown.csproj.GenerateResource.cache
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\obj\Debug\DomainUpDown.csproj.CoreCompileInputs.cache
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\obj\Debug\DomainUpDown.exe
+C:\Users\FPT-PC\Desktop\2111896_NguuyenTanTien_BuoiLyThuyetSo2\TabControl\DomainUpDown\obj\Debug\DomainUpDown.pdb
